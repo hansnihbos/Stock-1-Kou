@@ -13,14 +13,14 @@
 
           @keyframes pulse {
             0% {
-              opacity: 1;
+              opacity: 0.6;
               transform: scale(0.9);
-              filter: drop-shadow(0 0 5px #9876fe);
+              filter: drop-shadow(0 0 15px #9876fe);
             }
             100% {
-              opacity: 0.6;
+              opacity: 1;
               transform: scale(1);
-              filter: drop-shadow(0 0 10px #9876fe);
+              filter: drop-shadow(0 0 5px #9876fe);
             }
           }
 
