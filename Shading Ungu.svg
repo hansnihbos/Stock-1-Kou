@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1355 193">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-2);
+        opacity: .5;
+      }
+
+      .cls-2, .cls-3 {
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="1100.04" cy="-63.75" fx="1100.04" fy="-63.75" r="430.35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9678f6"/>
+      <stop offset=".51" stop-color="#9877fa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="237.73" cy="142.55" fx="237.73" fy="142.55" r="397.3" xlink:href="#radial-gradient"/>
+  </defs>
+  <g class="cls-1">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="FILE">
+        <g>
+          <rect class="cls-3" width="1355" height="190" rx="56.4" ry="56.4"/>
+          <rect class="cls-2" y="3" width="1355" height="190" rx="56.4" ry="56.4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
