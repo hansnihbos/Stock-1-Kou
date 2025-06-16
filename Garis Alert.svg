@@ -5,6 +5,24 @@
       .cls-1 {
         fill: #9777fc;
       }
+      
+      .cls-1 {
+            fill: #9777fc;
+            animation: pulse 1s infinite alternate;
+          }
+
+          @keyframes pulse {
+            0% {
+              opacity: 0.6;
+              transform: scale(0.9);
+              filter: drop-shadow(0 0 15px #9876fe);
+            }
+            100% {
+              opacity: 1;
+              transform: scale(1);
+              filter: drop-shadow(0 0 5px #9876fe);
+            }
+          }
 
     </style>
   </defs>
